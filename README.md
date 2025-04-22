@@ -5,8 +5,8 @@ This project aims to classify vehicles into emission categories based on feature
 
 ## 📁 Files Included
 
-- vehicle_emissions.csv – The dataset used for training and testing.
-- emission_classification.ipynb – Jupyter notebook containing the code.
+- air_quality.csv – The dataset used for training and testing.
+- AbdulRafey-202401100400003-MSE2.ipynb – google collab notebook containing the code.
 - report.pdf – Full report with methodology, code, output, and conclusion.
 - README.md – Project overview and instructions.
 
