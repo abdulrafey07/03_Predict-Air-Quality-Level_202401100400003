@@ -1,3 +1,4 @@
+![Screenshot 2025-04-22 150529](https://github.com/user-attachments/assets/e10765d1-e9cf-4459-8a5c-6d7a1e015b56)
 # 03_Predict-Air-Quality-Level_202401100400003
 This project successfully demonstrated the classification of air quality levels using environmental features such as PM2.5, NO2, and temperature. By employing machine learning techniques, we were able to develop a reliable predictive model with strong accuracy and performance metrics. The use of heatmaps for confusion matrices and detailed classification reports provided valuable insights into model behavior and class-wise performance.
 
